@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Discription of Tredagh in Ireland with the antiquity, scituation, natural strength and fortifications of the said place.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35776</idno>
+            <idno type="STC">Wing D1171</idno>
+            <idno type="STC">ESTC R139</idno>
+            <idno type="EEBO-CITATION">12264590</idno>
+            <idno type="OCLC">ocm 12264590</idno>
+            <idno type="VID">57965</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35776)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57965)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 180:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Discription of Tredagh in Ireland with the antiquity, scituation, natural strength and fortifications of the said place.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Joseph Bowers ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Drogheda (Ireland) --  Description and travel.</term>
+               <term>Drogheda (Ireland) --  Fortifications, military installations, etc.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:57965:1"/>
+            <head>A <hi>DISCRIPTION</hi> OF TREDAGH IN IRELAND.</head>
+            <head type="sub">With the <hi>Antiquity, Scituation, Natural Strength,</hi> and <hi>Fortifications</hi> of the ſaid Place.</head>
+            <argument>
+               <p>
+                  <hi>Licenſed September</hi> the 25th. <hi>J. F.</hi> 1689.</p>
+            </argument>
+            <p>THis Town being now the <hi>Key,</hi> or <hi>Inlet</hi> to <hi>Dublin</hi> from the North, and as well for that reaſon, as for its Fortifications and natural ſtrength, the moſt important Garriſon in the whole Kingdom; the ſubduing of which gains <hi>Dublin,</hi> and conſequently the beſt part of <hi>Ireland;</hi> on which account it has been the deſire of the moſt Curious to know the Scituation and Strength of this impor<g ref="char:EOLhyphen"/>tant Place. <hi>Tredagh</hi> (for its Antiquity) is the firſt Corporation in <hi>Ireland,</hi> before the Metroplis <hi>Dublin</hi> it ſelf: It being an Ancient Prerogative, when the Major of <hi>Tredagh</hi> is Choſen, to diſpatch a Horſe<g ref="char:EOLhyphen"/>man with all Expedition to the Lord Mayor and Court of Alderman then Aſ<g ref="char:EOLhyphen"/>ſembled in the <hi>Tolſall,</hi> to acquaint them that the Mayor of <hi>Tredagh</hi> is Choſen, up<g ref="char:EOLhyphen"/>on which immediately the Lord Mayor of <hi>Dublin</hi> is Sworn the ſame day.</p>
+            <p>It ſtands in the Province of <hi>
+                  <g ref="char:V">Ʋ</g>lſter</hi> in the County of <hi>Louth,</hi> on the River of <hi>Boyn,</hi> on the Mouth of the ſaid River running full on the Sea, and within twenty Miles of <hi>Dublin</hi> by Land: The River <hi>Boyn</hi> di<g ref="char:EOLhyphen"/>vides it as the <hi>Thames</hi> does <hi>London</hi> and <hi>Southwark,</hi> or as the <hi>Liffy</hi> does <hi>Oſtman-Town</hi> and <hi>Dublin.</hi> It has over it a ſpacious Bridge with Nine Arches and Pillars, and a very Commodious Haven, in which Ships of the greateſt Burthen may ly at Anchor; and Merchant-men of two or three hundred Tun ſail up to the Key.</p>
+            <p>It took the name of <hi>Droghedah</hi> from the Bridge, which (to the wonder of the Natives) was built over the River. <hi>Drohed,</hi> in the Iriſh Language ſignifying a Bridge or Paſſage over the Water, ſince by the Engliſh, <hi>Dredagh,</hi> now generally <hi>Tredagh.</hi>
+            </p>
+            <p>It is a very Fair, Rich, and Popolous City, famous for all ſorts of Commerce and Traffick, both by Sea and Land: This is evident by the richneſs of their Mer<g ref="char:EOLhyphen"/>chants and Tradeſmen, ſome of whom are valued Twenty, ſome Thirty, ſome Forty thouſands pounds <hi>Sterlin.</hi>
+            </p>
+            <p>It is ſtrongly Fortified as well by Art as Nature, having round it a ſtrong Wall of 6 Foot, in ſome Places 7 Foot deep, with a Baſtion at every Corner, beſides ſeveral Terrets, or Towers, with ſmall Cannons mounted on the ſaid Towers, and two Demilunes, or Half-moons, on each ſide of the Town, on each of which, are planted Four Demiculverins: And two Plat-forms to the Water-ſide, with as many great Cannons.</p>
+            <p>Within the Circumference of this ſpa<g ref="char:EOLhyphen"/>cious Wall it has Six Gates, <hi>viz.</hi>
+               <list>
+                  <pb facs="tcp:57965:2"/>
+                  <item>
+                     <hi>Dublin Gate.</hi>
+                  </item>
+                  <item>St. <hi>Johns Gate.</hi>
+                  </item>
+                  <item>
+                     <hi>Weſt Gate.</hi>
+                  </item>
+                  <item>
+                     <hi>Lawrance Gate.</hi>
+                  </item>
+                  <item>
+                     <hi>Shop Gate.</hi>
+                  </item>
+                  <item>
+                     <hi>Pillory Gate.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>Dublin Gate</hi> is that which opens on <hi>Dub<g ref="char:EOLhyphen"/>lin</hi> ſide, and enters the City that way which gives Denomination to the whole Street, at the end of which ſtands the <hi>Corn-market,</hi> beſides the Streets which take their Denomination from the Gates, as,
+<list>
+                  <item>
+                     <hi>Dublin-ſtreet.</hi>
+                  </item>
+                  <item>St. <hi>Johns-ſtreet.</hi>
+                  </item>
+                  <item>
+                     <hi>Weſt-ſtreet.</hi>
+                  </item>
+                  <item>
+                     <hi>Lawrance-ſtreet.</hi>
+                  </item>
+                  <item>
+                     <hi>Shop-ſtreet.</hi>
+                  </item>
+                  <item>
+                     <hi>Pillory-ſtreet.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>There are ſeveral other very large and ſpacious Streets, as <hi>Dear-ſtreet,</hi> on the Left-hand at the Upper-end of the great Street, where ſtands the <hi>Tolſall,</hi> which is an Ancient and Curious Structure, the Seat of Judicature, and Place of their publick Aſſemblies.</p>
+            <p>
+               <hi>Bridges-ſtreet</hi> on the other-ſide the Bridge, upon which is built the Town-Jayl, called <hi>Guild hall,</hi> over the <hi>Boyn,</hi> be<g ref="char:EOLhyphen"/>ſides <hi>Alleys, Courts,</hi> and <hi>Lanes,</hi> innumer<g ref="char:EOLhyphen"/>able.</p>
+            <p>To paſs by <hi>Shop-ſtreet,</hi> which is the moſt eminent and remarkable for Mer<g ref="char:EOLhyphen"/>chants, there are two Famous <hi>Keys, Savi<g ref="char:EOLhyphen"/>ours</hi> and <hi>Merchants Key,</hi> upon which is built the <hi>Cuſtom-houſe,</hi> the <hi>Burs,</hi> or <hi>Ex<g ref="char:EOLhyphen"/>change.</hi>
+            </p>
+            <p>There were once as many large Churches as Streets, moſt of which were Demo<g ref="char:EOLhyphen"/>liſhed in the time of the War: There yet remains the Famous Church of St. <hi>Peters,</hi> well beautified and kept in its Primative ſplendor; and St. <hi>Johns</hi> Church in St. <hi>Johns</hi> Street, which are the only two Churches endow'd, and a <hi>Chappel</hi> of Eaſe allowed to St. <hi>Peters,</hi> tell St. <hi>Lawrance</hi> Church be built. There is likewiſe a large <hi>Convention</hi> or Meeting-houſe on <hi>Sa<g ref="char:EOLhyphen"/>viours Key.</hi> The <hi>Popiſh Chappel</hi> in <hi>Weſt-ſtreet</hi> is pull'd down.</p>
+            <p>Beſides what has been mention'd, there is yet one thing more remarkable called the <hi>Mill Mount,</hi> which being in the Cen<g ref="char:EOLhyphen"/>tre of the Town, Commanding the Coun<g ref="char:EOLhyphen"/>trey 6. or 7. Miles round every way, ſo that if this place were but well Built and Fortified, it would make the Town Inac<g ref="char:EOLhyphen"/>ceſſable and almoſt Impregniable: The Neglect of this Fortification gave <hi>O. Crom<g ref="char:EOLhyphen"/>well</hi> ſuch ſpeedy and eaſy Acceſs into that Garriſon, who reduced it in a weeks time, which the Wild Iriſh could hardly do in 3. Years.</p>
+            <p>This ſuceſsfull Conqueror Marched out of <hi>Dublin</hi> with a Detatchment of 10000 Choſen Men the 30th. of <hi>Auguſt,</hi> 1649 with a Train of Artillery and 4. Whole, and 5. Demy Cannnons, Sir. <hi>George Aſ<g ref="char:EOLhyphen"/>cough</hi> with his Fleet blocking them up by ſea, He came before <hi>Droghedah,</hi> on the 2d. of <hi>September.</hi> Where (without the Ceremonies of Drawing Lines, or Make<g ref="char:EOLhyphen"/>ing Trenches, the Uſual formalites of a Seige, he preſently planted a ſtrong Bat<g ref="char:EOLhyphen"/>tery, which Quickly levelled the Steeple of a Church on the ſouth-ſide of the Town, and a Tower by it, which Battery con<g ref="char:EOLhyphen"/>triving (with the Fleet Blocking them up by ſea) the 9th. of the ſame Month (which was within a weeks time) he be<g ref="char:EOLhyphen"/>came maſter of the place, having taken it by ſtorm, and put all to the ſword, to the Number of above 3000. We doubt not but the ſame ſucceſs will attend the no leſs Victorious General his Grace the D, of <hi>Schomberg</hi> in this preſent undertaking and thee Speedy Reducing of this Important place, which will prove for effectual an Inlett to the Subduing the whole Na<g ref="char:EOLhyphen"/>tion.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Joſeph Bowers,</hi> next the Corner of St. <hi>Martins Lane.</hi> MDCLXXXIX.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
